@@ -5,13 +5,16 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "start": "node server.js"
   },
   "dependencies": {
     "animejs": "^3.2.1",
     "core-js": "^3.6.5",
+    "express": "^4.17.1",
     "normalize.css": "^8.0.1",
     "particles-bg-vue": "^1.3.5",
+    "serve-static": "^1.14.1",
     "vue": "^2.6.11",
     "vue-particle-effect-buttons": "^1.0.4",
     "vue-snotify": "^3.2.1",
