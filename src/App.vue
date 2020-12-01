@@ -111,7 +111,9 @@ html, body, ul, li, form {
   margin: 10px 0 25px;
   color: #34353a;
 }
-
+.vue-particle-effect-button .particles-button{
+  padding: 10px 25px !important;
+}
 /*adaptive version*/
 
 @media (max-width: 890px) {
