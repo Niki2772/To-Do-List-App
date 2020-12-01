@@ -119,13 +119,13 @@ html, body, ul, li, form {
   color: #737780 !important; }
 
 .snotify-info {
-  background-color: #949087; }
+  background-color: #949087!important }
 .snotify-warning .snotifyToast__progressBar {
-  background-color: #eadfcd; }
+  background-color: #eadfcd!important }
 .snotify-warning .snotifyToast__progressBar__percentage {
-  background-color: #f6f1ed; }
+  background-color: #f6f1ed!important }
 .snotify-warning .snotifyToast__body {
-  color: #fff3e0; }
+  color: #fff3e0 !important }
 
 .snotify-warning {
   background-color: #b3b7c3; }
