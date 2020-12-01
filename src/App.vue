@@ -105,6 +105,36 @@ html, body, ul, li, form {
   min-height: 500px;
   margin-top: 100px;
 }
+.snotify-simple .snotifyToast__title,
+.snotify-simple .snotifyToast__body {
+  color: #000; }
+
+.snotify-success {
+  background-color: #737780 !important; }
+.snotify-confirm .snotifyToast__progressBar {
+  background-color: #c1c1c1 !important; }
+.snotify-confirm .snotifyToast__progressBar__percentage {
+  background-color: #7f7f7f !important; }
+.snotify-confirm .snotifyToast__body {
+  color: #737780 !important; }
+
+.snotify-info {
+  background-color: #949087; }
+.snotify-warning .snotifyToast__progressBar {
+  background-color: #eadfcd; }
+.snotify-warning .snotifyToast__progressBar__percentage {
+  background-color: #f6f1ed; }
+.snotify-warning .snotifyToast__body {
+  color: #fff3e0; }
+
+.snotify-warning {
+  background-color: #b3b7c3; }
+.snotify-warning .snotifyToast__progressBar {
+  background-color: #b6b0b0; }
+.snotify-warning .snotifyToast__progressBar__percentage {
+  background-color: #f6f1ed; }
+.snotify-warning .snotifyToast__body {
+  color: #fff3e0; }
 
 .toDoAppTitle {
   text-align: center;
