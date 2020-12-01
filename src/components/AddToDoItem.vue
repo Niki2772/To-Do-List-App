@@ -42,6 +42,7 @@ export default {
 <style scoped>
 .inputWrap {
   display: flex;
+  align-items: center;
   height: 37px;
 }
 
